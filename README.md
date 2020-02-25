@@ -6,6 +6,6 @@
 * JavaScript
 * BootStrap
 
-### * Backend *
+### *Backend*
 * node.js
 * mysql
